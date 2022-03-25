@@ -8,7 +8,6 @@ typedef struct s_list
 	int		*dec_array;
 	int		*sorted_array;
 	int		*simple_arr;
-	int		max_num;
 	int		*arr_a;
 	int		*arr_b;
 	int		size;
